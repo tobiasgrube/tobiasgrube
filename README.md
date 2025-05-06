@@ -1,18 +1,26 @@
-# Hello there 👋🧔🏻‍♂️
+# Hallo zusammen 🧔🏻‍♂️
 
 Ich bin Tobias Grube, Softwareentwickler und Inhaber von Admelio Solutions. 
 
-## Exklusive Seminare buchen!
-- Individueller Workshop: https://www.mgs-entwicklung.de/seminaranfrage
-- SQL-Datenbanken: https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht/
-- Programmierung: https://www.mgs-entwicklung.de/programmierung-seminare-uebersicht/
-- SQL-Server: https://www.mgs-entwicklung.de/sql-server-seminaruebersicht/
-- Microsoft-Kurse: https://www.mgs-entwicklung.de/microsoft-seminare-uebersicht/
+Admelio Solutions bietet in Partnerschaft mit MG Software Entwicklung IT-Seminare in verschiedenen Bereichen an. Verschaffen Sie sich gerne einen Überblick über unsere Schulungs- und Softwareangebote.
 
-## Hochwertige Software für die Bereiche Buchhaltung, ERP und Rechnungskonvertierung!
-- E-Rechnungen einlesen und schreiben mit MGS XRechnung Pro: https://www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro/
-- Allgemeine Software-Angebote: https://www.mgs-entwicklung.de/software-uebersicht/
+## 🎓 Maßgeschneiderte Weiterbildung für höchste Ansprüche
+🧑‍🏫 Individueller Workshop: www.mgs-entwicklung.de/seminaranfrage
 
+📊 SQL-Datenbanken – strukturiert und praxisnah: www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht
+  
+👨‍💻 Professionelle Programmierung mit C# und VB.NET: www.mgs-entwicklung.de/programmierung-seminare-uebersicht
+  
+🗄️ SQL-Server – Entwicklung, Administration und BI: www.mgs-entwicklung.de/sql-server-seminaruebersicht
+  
+🎓 Microsoft-Schulungen: www.mgs-entwicklung.de/microsoft-seminare-uebersicht
+
+## 🖥️ Intelligente Softwarelösungen für eine effiziente Zukunft
+🧾 E-Rechnungen schreiben & lesen mit MGS XRechnung Pro:
+www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro
+
+💻 Maßgeschneiderte Software für ERP, Buchhaltung & Konvertierung:
+www.mgs-entwicklung.de/software-uebersicht
 <!--
 **tobigrbe/tobigrbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
