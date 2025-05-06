@@ -1,5 +1,7 @@
 # Hello there 👋🧔🏻‍♂️
 
+Ich bin Tobias Grube, Softwareentwickler und Inhaber von Admelio Solutions. 
+
 ## Exklusive Seminare buchen!
 - Individueller Workshop: https://www.mgs-entwicklung.de/seminaranfrage
 - SQL-Datenbanken: https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht/
