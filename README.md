@@ -13,7 +13,7 @@ Admelio Solutions bietet in Partnerschaft mit MG Software Entwicklung IT-Seminar
   
 🗄️ SQL-Server – Entwicklung, Administration und BI: www.mgs-entwicklung.de/sql-server-seminaruebersicht
   
-🎓 Microsoft-Schulungen: www.mgs-entwicklung.de/microsoft-seminare-uebersicht
+🎓 Microsoft-Kurse: www.mgs-entwicklung.de/microsoft-seminare-uebersicht
 
 ## 🖥️ Intelligente Softwarelösungen für eine effiziente Zukunft
 🧾 E-Rechnungen schreiben & lesen mit MGS XRechnung Pro:
