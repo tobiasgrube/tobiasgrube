@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Exklusive Seminare buchen!
+- SQL-Datenbanken: https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht/
+- .NET-Programmierung: https://www.mgs-entwicklung.de/programmierung-seminare-uebersicht/
+- SQL-Server: https://www.mgs-entwicklung.de/sql-server-seminaruebersicht/
+- Microsoft-Kurse: https://www.mgs-entwicklung.de/microsoft-seminare-uebersicht/
+
 <!--
 **tobigrbe/tobigrbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
