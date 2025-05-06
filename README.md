@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋🧔🏻‍♂️
 
-# Exklusive Seminare buchen!
+## Exklusive Seminare buchen!
 - SQL-Datenbanken: https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht/
 - .NET-Programmierung: https://www.mgs-entwicklung.de/programmierung-seminare-uebersicht/
 - SQL-Server: https://www.mgs-entwicklung.de/sql-server-seminaruebersicht/
