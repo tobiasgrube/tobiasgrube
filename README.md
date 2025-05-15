@@ -2,7 +2,9 @@
 
 Ich bin Tobias Grube, Softwareentwickler und Inhaber von Admelio Solutions. 
 
-Admelio Solutions bietet in Partnerschaft mit MG Software Entwicklung IT-Seminare in verschiedenen Bereichen an. Verschaffen Sie sich gerne einen Überblick über unsere Schulungs- und Softwareangebote.
+Admelio Solutions ist ein Unternehmen das IT-Dienstleistungen wie Softwareentwicklung und IT-Trainings anbietet.
+
+In Partnerschaft mit MG Software Entwicklung bieten wir exklusive IT-Seminare in verschiedenen Bereichen wie SQL-Server, C#-Entwicklung uvm. an. Verschaffen Sie sich gerne einen Überblick über unsere Schulungs- und Softwareangebote.
 
 ## 🎓 Maßgeschneiderte Weiterbildung für höchste Ansprüche
 🧑‍🏫 Individueller Workshop: www.mgs-entwicklung.de/seminaranfrage
