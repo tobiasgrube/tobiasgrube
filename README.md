@@ -6,18 +6,18 @@ Admelio Solutions ist ein Unternehmen das IT-Dienstleistungen wie Softwareentwic
 
 In Partnerschaft mit MG Software Entwicklung bieten wir exklusive IT-Seminare in verschiedenen Bereichen wie SQL-Server, C#-Entwicklung uvm. an. Verschaffen Sie sich gerne einen Überblick über unsere Schulungs- und Softwareangebote.
 
-## 🎓 Maßgeschneiderte Weiterbildung für höchste Ansprüche
+## 🎓 Hochwertige Schulungen um Sie zum Experten zu machen:
 🧑‍🏫 Individueller Workshop: www.mgs-entwicklung.de/seminaranfrage
 
 📊 SQL-Datenbanken – strukturiert und praxisnah: www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht
   
-👨‍💻 Professionelle Programmierung mit C# und VB.NET: www.mgs-entwicklung.de/programmierung-seminare-uebersicht
+👨‍💻 Programmierung mit C# und VB.NET: www.mgs-entwicklung.de/programmierung-seminare-uebersicht
   
 🗄️ SQL-Server – Entwicklung, Administration und BI: www.mgs-entwicklung.de/sql-server-seminaruebersicht
   
 🎓 Microsoft-Kurse: www.mgs-entwicklung.de/microsoft-seminare-uebersicht
 
-## 🖥️ Intelligente Softwarelösungen für eine effiziente Zukunft
+## 🖥️ Intelligente Softwarelösungen um Ihre Prozesse effizienter zu gestalten:
 🧾 E-Rechnungen schreiben & lesen mit MGS XRechnung Pro:
 www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro
 
