@@ -27,7 +27,7 @@ Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisr
 - 💼 **Microsoft Office-Seminare**: [Zur Übersicht](https://www.mgs-entwicklung.de/microsoft-office-uebersicht/)
 
 
-### 🖥️ Softwarelösungen für effizientere Abläufe
+### 🖥️ Softwarelösungen für effizientere Abläufe:
 
 Wir entwickeln **maßgeschneiderte Softwarelösungen**, die Ihre Prozesse vereinfachen und beschleunigen.
 
