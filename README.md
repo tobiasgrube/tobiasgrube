@@ -27,13 +27,9 @@ Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisr
 - 💼 **Microsoft Office-Seminare**: [Zur Übersicht](https://www.mgs-entwicklung.de/microsoft-office-uebersicht/)
 
 
-### 🖥️ Softwarelösungen für effizientere Abläufe:
-
-Wir entwickeln **maßgeschneiderte Softwarelösungen**, die Ihre Prozesse vereinfachen und beschleunigen.
-
+### 🖥️ Individuell erweiterbare Softwarelösungen für effizientere Abläufe:
 - 🧾 **MGS XRechnung Pro** – E-Rechnungen schreiben & lesen: [Mehr erfahren](https://www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro)
-
-- 💻 Individuelle Lösungen für **ERP, Buchhaltung & Konvertierung**: [Zur Softwareübersicht](https://www.mgs-entwicklung.de/software-uebersicht)
+- 💻 Lösungen für **ERP, Buchhaltung & Konvertierung**: [Zur Softwareübersicht](https://www.mgs-entwicklung.de/software-uebersicht)
 
 ---
 
