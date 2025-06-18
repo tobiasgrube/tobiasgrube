@@ -10,8 +10,6 @@ Wir stehen für strukturierte Lösungen, höchste Sorgfalt und echte Begeisterun
 Ob individuelle Softwarelösungen oder praxisnahe Schulungen:  
 Unser Anspruch ist es, nachhaltigen Mehrwert zu schaffen – durch **klare Systeme**, **effiziente Prozesse** und eine **partnerschaftliche Zusammenarbeit**.
 
-💡 Admelio Solutions befindet sich im professionellen Aufbau. Ziel ist es, ein exzellentes Team zu formen, das Unternehmen dabei unterstützt, **digital erfolgreicher** zu werden.
-
 ---
 
 ## 🤝 In Partnerschaft mit **MG Software Entwicklung**:
