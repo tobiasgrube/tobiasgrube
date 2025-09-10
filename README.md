@@ -1,6 +1,8 @@
 # Hallo zusammen! 🧔🏻‍♂️
 
-Ich bin **Tobias Grube** – Softwareentwickler, IT-Dozent und Gründer von **Admelio Solutions**.
+Ich bin **Tobias Grube** – Softwareentwickler, IT-Trainer und Gründer von **Admelio Solutions**.
+
+📧 [**Jetzt kontaktieren**](mailto:tobias.grube@admeliosolutions.com)
 
 ## 🚀 Admelio Solutions
 
@@ -10,24 +12,36 @@ Wir stehen für strukturierte Lösungen, höchste Sorgfalt und echte Begeisterun
 Ob individuelle Softwarelösungen oder praxisnahe Schulungen:  
 Unser Anspruch ist es, nachhaltigen Mehrwert zu schaffen – durch **klare Systeme**, **effiziente Prozesse** und eine **partnerschaftliche Zusammenarbeit**.
 
----
+🌐 [**Jetzt zur Homepage**](https://admeliosolutions.com/) 
 
-## 🤝 In Partnerschaft mit **MG Software Entwicklung**:
+## 🤝 In Partnerschaft mit [**MG Software Entwicklung**](https://www.mgs-entwicklung.de/):
 
-Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisrelevanten Themen an.  
+Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisrelevanten Themen an.
 
-### 🎓 Unsere Schulungsangebote:
-- 🧑‍🏫 **Individuelle Workshops** 👉 [Jetzt anfragen](https://www.mgs-entwicklung.de/seminaranfrage)  
-- 📊 **SQL-Datenbanken** – strukturiert & praxisnah 👉 [Zur Übersicht](https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht)  
-- 👨‍💻 **Programmierung** 👉 [Zur Übersicht](https://www.mgs-entwicklung.de/programmierung-seminare-uebersicht)  
-- 🗄️ **SQL-Server** – Entwicklung, Administration & BI 👉 [Zur Übersicht](https://www.mgs-entwicklung.de/sql-server-seminaruebersicht)  
-- 🎓 **Microsoft-Kurse** 👉 [Zur Übersicht](https://www.mgs-entwicklung.de/microsoft-seminare-uebersicht)  
-- 💼 **Microsoft Office-Seminare** 👉 [Zur Übersicht](https://www.mgs-entwicklung.de/microsoft-office-uebersicht/)
+### 🎓 **Unsere Schulungsangebote**
+
+- 🧑‍🏫 [**Individuelle Workshops**](https://www.mgs-entwicklung.de/seminaranfrage)  
+  Maßgeschneiderte Schulungskonzepte für Teams, Projekte & Einzelpersonen
+
+- 📊 [**SQL-Datenbanken**](https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht)  
+  Grundlagen, Abfragen, Normalisierung, Indexe & mehr – praxisnah & prüfungsorientiert
+
+- 👨‍💻 [**Programmierung**](https://www.mgs-entwicklung.de/programmierung-seminare-uebersicht)  
+  C#, .NET, VB.NET – vom Einstieg bis zum professionellen Einsatz
+
+- 🗄️ [**SQL Server**](https://www.mgs-entwicklung.de/sql-server-seminaruebersicht)  
+  Entwicklung, Administration, BI-Tools & Performance-Tuning im Unternehmenseinsatz
+
+- 🧑‍💼 [**Microsoft-Kurse**](https://www.mgs-entwicklung.de/microsoft-seminare-uebersicht)  
+  Power BI, Azure und mehr – professionell geschult
+
+- 🗂️ [**Microsoft Office-Seminare**](https://www.mgs-entwicklung.de/microsoft-office-uebersicht/)  
+  Excel, Access – sicher & effizient im Büroalltag
 
 
 ### 🖥️ Individuell erweiterbare Softwarelösungen für effizientere Abläufe:
-- 🧾 **MGS XRechnung Pro** – E-Rechnungen schreiben & lesen 👉 [Mehr erfahren](https://www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro)
-- 💻 Lösungen für **ERP, Buchhaltung & Konvertierung** 👉 [Zur Softwareübersicht](https://www.mgs-entwicklung.de/software-uebersicht)
+- 🧾 [**MGS XRechnung Pro** – E-Rechnungen schreiben & lesen](https://www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro)
+- 💻 [Lösungen für **ERP, Buchhaltung & Konvertierung**](https://www.mgs-entwicklung.de/software-uebersicht)
 
 ---
 
