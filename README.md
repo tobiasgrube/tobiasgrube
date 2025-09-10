@@ -2,7 +2,7 @@
 
 Ich bin **Tobias Grube** – Softwareentwickler, IT-Dozent und Gründer von **Admelio Solutions**.
 
-## 🚀 Admelio Solutions – IT mit System, Leidenschaft und Weitblick
+## 🚀 Admelio Solutions
 
 Admelio Solutions bietet hochwertige IT-Dienstleistungen in den Bereichen **Softwareentwicklung**, **Webdesign** und **IT-Training**.  
 Wir stehen für strukturierte Lösungen, höchste Sorgfalt und echte Begeisterung für Technologie.
