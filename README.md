@@ -23,19 +23,19 @@ Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisr
 - 🧑‍🏫 [**Individuelle Workshops**](https://www.mgs-entwicklung.de/seminaranfrage)  
   Maßgeschneiderte Schulungskonzepte für Teams, Projekte & Einzelpersonen
 
-- 📊 [**SQL-Datenbanken**](https://www.mgs-entwicklung.de/sql-datenbanken-seminare-uebersicht)  
+- 📊 [**SQL-Datenbanken**](https://admeliosolutions.com/sql-datenbanken-seminare/)  
   Grundlagen, Abfragen, Normalisierung, Indexe & mehr – praxisnah & prüfungsorientiert
 
-- 👨‍💻 [**Programmierung**](https://www.mgs-entwicklung.de/programmierung-seminare-uebersicht)  
+- 👨‍💻 [**Programmierung**](https://admeliosolutions.com/programmierung-seminare/)  
   C#, .NET, VB.NET – vom Einstieg bis zum professionellen Einsatz
 
-- 🗄️ [**SQL Server**](https://www.mgs-entwicklung.de/sql-server-seminaruebersicht)  
+- 🗄️ [**SQL Server**](https://admeliosolutions.com/sql-server-seminare/)  
   Entwicklung, Administration, BI-Tools & Performance-Tuning im Unternehmenseinsatz
 
-- 🧑‍💼 [**Microsoft-Kurse**](https://www.mgs-entwicklung.de/microsoft-seminare-uebersicht)  
+- 🧑‍💼 [**Microsoft-Kurse**](https://admeliosolutions.com/microsoft-kurse/)  
   Power BI, Azure und mehr – professionell geschult
 
-- 🗂️ [**Microsoft Office-Seminare**](https://www.mgs-entwicklung.de/microsoft-office-uebersicht/)  
+- 🗂️ [**Microsoft Office-Seminare**](https://admeliosolutions.com/microsoft-office-seminare/)  
   Excel, Access – sicher & effizient im Büroalltag
 
 
