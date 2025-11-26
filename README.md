@@ -14,14 +14,7 @@ Unser Anspruch ist es, nachhaltigen Mehrwert zu schaffen – durch **klare Syste
 
 🌐 [**Jetzt zur Homepage**](https://admeliosolutions.com/) 
 
-## 🤝 In Partnerschaft mit [**MG Software Entwicklung**](https://www.mgs-entwicklung.de/):
-
-Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisrelevanten Themen an.
-
-### 🎓 **Unsere Schulungsangebote**
-
-- 🧑‍🏫 [**Individuelle Workshops**](https://www.mgs-entwicklung.de/seminaranfrage)  
-  Maßgeschneiderte Schulungskonzepte für Teams, Projekte & Einzelpersonen
+## 🎓 **Unsere Schulungsangebote**
 
 - 📊 [**SQL-Datenbanken**](https://admeliosolutions.com/sql-datenbanken-seminare/)  
   Grundlagen, Abfragen, Normalisierung, Indexe & mehr – praxisnah & prüfungsorientiert
@@ -39,7 +32,7 @@ Gemeinsam bieten wir exklusive IT-Seminare zu aktuellen Technologien und praxisr
   Excel, Access – sicher & effizient im Büroalltag
 
 
-### 🖥️ Individuell erweiterbare Softwarelösungen für effizientere Abläufe:
+## 🖥️ Individuell erweiterbare Softwarelösungen für effizientere Abläufe:
 - 🧾 [**MGS XRechnung Pro** – E-Rechnungen schreiben & lesen](https://www.mgs-entwicklung.de/produkt/mgs-xrechnung-pro)
 - 💻 [Lösungen für **ERP, Buchhaltung & Konvertierung**](https://www.mgs-entwicklung.de/software-uebersicht)
 
