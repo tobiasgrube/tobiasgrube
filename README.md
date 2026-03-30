@@ -1,16 +1,8 @@
-# Hallo zusammen! 🧔🏻‍♂️
+# Hi 🧔🏻‍♂️
 
 Ich bin **Tobias Grube** – Softwareentwickler, IT-Trainer und Gründer von **Admelio Solutions**.
 
 📧 [**Jetzt kontaktieren**](mailto:tobias.grube@admeliosolutions.com)
-
-## 🚀 Admelio Solutions
-
-Admelio Solutions bietet hochwertige IT-Dienstleistungen in den Bereichen **Softwareentwicklung**, **Webdesign** und **IT-Training**.  
-Wir stehen für strukturierte Lösungen, höchste Sorgfalt und echte Begeisterung für Technologie.
-
-Ob individuelle Softwarelösungen oder praxisnahe Schulungen:  
-Unser Anspruch ist es, nachhaltigen Mehrwert zu schaffen – durch **klare Systeme**, **effiziente Prozesse** und eine **partnerschaftliche Zusammenarbeit**.
 
 🌐 [**Jetzt zur Homepage**](https://admeliosolutions.com/) 
 
