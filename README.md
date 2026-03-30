@@ -1,10 +1,12 @@
 # Hi 🧔🏻‍♂️
 
-Ich bin **Tobias Grube** – Softwareentwickler, IT-Trainer und Gründer von **Admelio Solutions**.
+Ich bin **Tobias Grube** – Softwareentwickler und IT-Trainer.
 
-📧 [**Jetzt kontaktieren**](mailto:tobias.grube@admeliosolutions.com)
+📧 [**E-Mail-Kontakt**](mailto:tobias.grube@admeliosolutions.com)
 
-🌐 [**Jetzt zur Homepage**](https://admeliosolutions.com/) 
+🌐 [**LinkedIn**](https://www.linkedin.com/in/tobiasgrube) 
+
+🌐 [**Homepage**](https://admeliosolutions.com/) 
 
 ## 🎓 **Unsere Schulungsangebote**
 
